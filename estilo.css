@@ -1,0 +1,42 @@
+h1 {
+    color:black;
+    font-size: 24px;
+}
+h2 {
+    color:black;
+    font-size: 24px;
+    color:aquamarine(239, 24, 142)
+
+}
+h3 {
+    color:black;    
+
+}
+body {
+    background-color:rgb(216, 228, 235)
+}
+nav {
+    color:black;
+
+}
+
+li {
+    color:black;
+    font-size: 15px;
+}
+#about {
+    color:rgb blue;
+}
+#services {
+    color:blue
+}
+#details {
+    color:blue
+}
+a {
+    color:blue
+}
+
+
+
+
